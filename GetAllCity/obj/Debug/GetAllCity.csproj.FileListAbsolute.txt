@@ -1,0 +1,183 @@
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\ApplicationInsights.config
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\csc.exe
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CSharp.Core.targets
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\System.Collections.Immutable.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\System.Reflection.Metadata.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\vbc.exe
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\VBCSCompiler.exe
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\roslyn\VBCSCompiler.exe.config
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\GetAllCity.dll.config
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\GetAllCity.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\GetAllCity.pdb
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Antlr3.Runtime.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\EntityFramework.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\EntityFramework.SqlServer.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.Agent.Intercept.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.DependencyCollector.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.PerfCounterCollector.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.Web.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.WindowsServer.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.ApplicationInsights.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Core.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Owin.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Host.SystemWeb.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Cookies.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Facebook.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Google.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.OAuth.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Twitter.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Web.Infrastructure.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Newtonsoft.Json.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Owin.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Net.Http.Formatting.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Helpers.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.Owin.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.WebHost.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Mvc.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Optimization.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Razor.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.Deployment.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.Razor.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\WebGrease.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.DependencyCollector.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.Web.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AI.WindowsServer.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.ApplicationInsights.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Newtonsoft.Json.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Net.Http.Formatting.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Helpers.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.WebHost.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Mvc.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Optimization.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Razor.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.Deployment.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.WebPages.Razor.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Antlr3.Runtime.pdb
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\EntityFramework.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\EntityFramework.SqlServer.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Core.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Owin.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Host.SystemWeb.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Facebook.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Cookies.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.OAuth.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Google.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Twitter.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\bin\System.Web.Http.Owin.xml
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\obj\Debug\GetAllCity.csprojResolveAssemblyReference.cache
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\obj\Debug\GetAllCity.dll
+N:\Studies\My Projects in Dot Net\GetAllCity\GetAllCity\obj\Debug\GetAllCity.pdb
+E:\GetAllCity\GetAllCity\bin\ApplicationInsights.config
+E:\GetAllCity\GetAllCity\bin\roslyn\csc.exe
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GetAllCity\GetAllCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GetAllCity\GetAllCity\bin\roslyn\System.Collections.Immutable.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\System.Reflection.Metadata.dll
+E:\GetAllCity\GetAllCity\bin\roslyn\vbc.exe
+E:\GetAllCity\GetAllCity\bin\roslyn\VBCSCompiler.exe
+E:\GetAllCity\GetAllCity\bin\roslyn\VBCSCompiler.exe.config
+E:\GetAllCity\GetAllCity\bin\GetAllCity.dll.config
+E:\GetAllCity\GetAllCity\bin\GetAllCity.dll
+E:\GetAllCity\GetAllCity\bin\GetAllCity.pdb
+E:\GetAllCity\GetAllCity\bin\Antlr3.Runtime.dll
+E:\GetAllCity\GetAllCity\bin\EntityFramework.dll
+E:\GetAllCity\GetAllCity\bin\EntityFramework.SqlServer.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.DependencyCollector.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.Web.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.WindowsServer.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.ApplicationInsights.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Google.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.Web.Infrastructure.dll
+E:\GetAllCity\GetAllCity\bin\Newtonsoft.Json.dll
+E:\GetAllCity\GetAllCity\bin\Owin.dll
+E:\GetAllCity\GetAllCity\bin\System.Net.Http.Formatting.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Helpers.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.Owin.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.WebHost.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Mvc.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Optimization.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Razor.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.Deployment.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.Razor.dll
+E:\GetAllCity\GetAllCity\bin\WebGrease.dll
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.DependencyCollector.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.Web.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AI.WindowsServer.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.ApplicationInsights.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GetAllCity\GetAllCity\bin\Newtonsoft.Json.xml
+E:\GetAllCity\GetAllCity\bin\System.Net.Http.Formatting.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Helpers.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.WebHost.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Mvc.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Optimization.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Razor.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.Deployment.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.WebPages.Razor.xml
+E:\GetAllCity\GetAllCity\bin\Antlr3.Runtime.pdb
+E:\GetAllCity\GetAllCity\bin\EntityFramework.xml
+E:\GetAllCity\GetAllCity\bin\EntityFramework.SqlServer.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Google.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GetAllCity\GetAllCity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.Owin.xml
+E:\GetAllCity\GetAllCity\obj\Debug\GetAllCity.dll
+E:\GetAllCity\GetAllCity\obj\Debug\GetAllCity.pdb
+E:\GetAllCity\GetAllCity\bin\System.Web.Cors.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.Cors.dll
+E:\GetAllCity\GetAllCity\bin\System.Web.Http.Cors.xml
+E:\GetAllCity\GetAllCity\obj\Debug\GetAllCity.csprojResolveAssemblyReference.cache
